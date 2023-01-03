@@ -1,0 +1,136 @@
+#plansza
+{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    border: 3px;
+}
+#ruch
+{
+    color: white;
+}
+#ag
+{
+    color: yellow;
+}
+#p1
+{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(224, 142, 142);
+    margin-top: 5px;
+    margin-left: 5px;
+    float:left;
+}
+#p1:hover
+{
+    background-color: rgb(207, 201, 201);
+}
+#p2
+{
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    float:left;
+}
+#p2:hover
+{
+    background-color: rgb(207, 201, 201);
+}
+#p3
+{
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    float:left;
+}
+#p3:hover
+{
+    background-color: rgb(207, 201, 201);
+}
+#p4
+{
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    float:left;
+}
+#p4:hover
+{
+    background-color: rgb(207, 201, 201);
+}
+#p5
+{
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    float:left;
+}
+#p5:hover
+{
+    background-color: rgb(207, 201, 201);
+}
+#p6
+{
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    float:left;
+}
+#p6:hover
+{
+    background-color: rgb(207, 201, 201);
+}
+#p7
+{
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    float:left;
+}
+#p7:hover
+{
+    background-color: rgb(207, 201, 201);
+}
+#p8
+{
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    float:left;
+}
+#p8:hover
+{
+    background-color: rgb(207, 201, 201);
+}
+#p9
+{
+    width: 40px;
+    height: 40px;
+    background-color: gray;
+    margin-top: 5px;
+    margin-left: 5px;
+    float:left;
+}
+#p9:hover
+{
+    background-color: rgb(207, 201, 201);
+}
+.nl
+{
+    clear: both;
+}
